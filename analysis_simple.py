@@ -5,6 +5,8 @@ import numpy as np
 # Retail Performance Analysis: Inventory Turnover Optimization
 # Author: 23f3002416@ds.study.iitm.ac.in
 # Data Storytelling with LLMs - Created with LLM assistance
+# Generated with: ChatGPT Codex (https://chatgpt.com/codex/tasks)
+# LLM Tool: AI-assisted code generation for data analysis and visualization
 
 # Define the quarterly inventory turnover data
 quarterly_data = {
